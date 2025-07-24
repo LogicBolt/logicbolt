@@ -52,12 +52,10 @@ I love working with Web3, building dApps, and exploring new chains.
 
 ### 🚀 Featured Projects
 
-- 🔗 [**TonConnect Dapp**](https://github.com/logicbolt/ton-dapp)  
-  Telegram Mini App built with React + TON blockchain  
-- 🧠 [**Multi-chain NFT Mint Tool**](https://github.com/logicbolt/mint-tool)  
-  EVM & Solana-based minting toolkit with wallet connect  
-- 🌐 [**Express + Ethers API**](https://github.com/logicbolt/ethers-api)  
-  RESTful API for EVM chains using Ethers.js and Node  
+- 🔗 [**TON Polymarket mini app, Dapp**](https://t.me/futururum)
+  Expand functions for fork polymarket on TON chain.
+- 🧠 [**paid live streaming mini app**](https://github.com/LogicBolt/paid-live-project.git)
+  Paid live mini app & bot on Telegram private channel
 
 ---
 
