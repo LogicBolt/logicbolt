@@ -56,7 +56,7 @@ I love working with Web3, building dApps, and exploring new chains.
   Expand functions for fork polymarket on TON chain.
 - 🧠 [**paid live streaming mini app**](https://github.com/LogicBolt/paid-live-project.git)
   Paid live mini app & bot on Telegram private channel
-
+- JPG PUMP FUN on solana. (Launchlab, MPL Hybrid, SPL 404, bonding curve and letsbonk frontend)
 ---
 
 *Let’s build the decentralized future together 🛠️*
